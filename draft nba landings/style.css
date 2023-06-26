@@ -1,0 +1,147 @@
+*{
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+}
+
+body{
+      background-color:  #070144;
+      
+
+}
+
+
+.menu ul{
+      display: inline-flex;
+      margin: 40px;
+}
+
+.menu ul li{
+      list-style: none;
+      margin: 0 40px;
+      font-size: 2rem;
+      cursor: pointer;
+      font-family: 'Bebas Neue', sans-serif;
+}
+
+#red{
+      color: #DDDDDD;
+}
+#red a{
+      color: #DDDDDD;
+      font-family: 'Bebas Neue', sans-serif;
+      text-decoration: none;
+}
+
+.logo{
+      margin-top: -7px;
+      margin-right: 48px;
+      width:150px
+}
+
+
+.account{
+      top: 40px;
+      position: absolute;
+      right: 80px
+
+}
+.news h1{
+      margin-top: 100px;
+      background-color: rgb(115, 111, 111);
+
+}
+
+h1{
+      color: #DDDDDD;
+      
+      font-size: 3rem;
+      margin-left: 70px;
+      font-family: 'Bebas Neue', sans-serif;
+
+}
+
+.teams_logo img{
+      width: 160px;
+      margin-left: 70px;
+      margin-top: -30px;
+      padding: 8px;
+      
+}
+
+
+div.news{
+      padding-bottom: 25px;
+
+
+}
+.story img{
+      border-radius: 25px;
+      width: 300px;
+      margin-left: 70px;
+      margin-bottom: 35px;   
+      
+}
+
+
+.all img{
+      width: 1500px;
+      height: 900px;
+      display: block;
+      margin: auto;
+      
+}
+.all{
+      margin-top: 130px;
+      background-color: black;
+}
+*
+.all  h1{
+      text-align: center;
+      margin-bottom: 50px;
+}
+
+.wemby_silver img{
+      margin-top: 30px;
+      margin-left: 70px;
+      border-radius: 25px;
+
+}
+
+
+
+.selection h1{
+      margin-top: 200px;
+      background-color: red;
+
+}
+
+#rankings_name {
+      margin-left: 70px;
+      color: #DDDDDD;
+      margin-top: 70px;
+      font-size: 2rem;
+      font-family: 'Abril Fatface', cursive;
+}
+
+div#stats_title{
+      padding-top: 300px;
+      margin-bottom: 60px;
+      
+}
+
+
+
+#stats_player{
+      margin-left: 70;
+      width:200px;
+      height:100px;
+      background:blue;
+
+      
+      
+}
+
+.stats_photo{
+      border-radius: 10px;
+}
