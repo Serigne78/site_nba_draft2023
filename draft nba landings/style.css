@@ -699,6 +699,7 @@ div#stats_player_8{
 div#stats_title{
       padding-top: 300px;
       margin-bottom: 60px;
+      background: linear-gradient(to top, rgb(5, 3, 65), rgba(249, 38, 0, 0.574));
       
 }
 
@@ -749,4 +750,275 @@ div#stats_player_9{
       font-size: 2rem;
       font-family: 'Abril Fatface', cursive;
       
+}
+
+
+
+
+.classement{
+      margin-top:40px;
+      height: 400px;
+      width: 460px;
+      background-color: rgb(18, 16, 16);
+      margin-left: 700px;
+}
+
+.rookie_of_the_years h2{
+      color: #DDDDDD;
+      margin-top: 5px;
+      margin-left: 71px;
+      font-family: 'Passion One', cursive;
+      font-size: 1rem;
+      
+      
+      
+      
+}
+
+.wemby_roy img{
+      margin-top: 25px;
+      clip-path: ellipse(33% 50%);
+      width: 100px;
+      
+
+}
+
+.name_wemby{
+      position: relative;
+}
+
+.name_wemby{
+      position: absolute;
+      top: 1100px;
+      left: 800PX;
+      color: #DDDDDD;
+      font-size: 1rem;
+      font-family: 'Abril Fatface', cursive;
+
+}
+
+.details_wemby{
+      position:relative
+}
+
+.details_wemby{
+      position: absolute;
+      top: 1150px;
+      left: 800px;
+      color: #f1f1f6;
+      font-size: 1rem;
+      font-family: 'Abril Fatface', cursive; ;
+      
+}
+
+.avg_points_wemby{
+      position: relative;
+}
+
+.avg_points_wemby{
+      position: absolute;
+      top: 1100px;
+      left: 1070px;
+      color: #f1f1f6;
+      font-size: 1rem;
+      font-family: 'Abril Fatface', cursive; ;
+
+}
+
+.ppg_wemby{
+      position: relative;
+}
+
+.ppg_wemby{
+      position: absolute;
+      top: 1130px;
+      left: 1070px;
+      color: #f1f1f6;
+      font-size: 1rem;
+      font-family: 'Abril Fatface', cursive; ;
+      background-color: red;
+      border-radius: 35%;
+      padding: 5px;
+      
+}
+
+
+
+
+
+
+
+.scoot_roy img{
+      margin-top: 25px;
+      clip-path: ellipse(33% 50%);
+      width: 100px;
+      
+
+}
+
+.name_scoot{
+      position: relative;
+}
+
+.name_scoot{
+      position: absolute;
+      top: 1200px;
+      left: 800PX;
+      color: #DDDDDD;
+      font-size: 1rem;
+      font-family: 'Abril Fatface', cursive;
+
+}
+
+.details_scoot{
+      position:relative
+}
+
+.details_scoot{
+      position: absolute;
+      top: 1240px;
+      left: 800px;
+      color: #f1f1f6;
+      font-size: 1rem;
+      font-family: 'Abril Fatface', cursive; ;
+      
+}
+
+.avg_points_scoot{
+      position: relative;
+}
+
+.avg_points_scoot{
+      position: absolute;
+      top: 1200px;
+      left: 1070px;
+      color: #f1f1f6;
+      font-size: 1rem;
+      font-family: 'Abril Fatface', cursive; ;
+
+}
+
+.ppg_scoot{
+      position: relative;
+}
+
+.ppg_scoot{
+      position: absolute;
+      top: 1230px;
+      left: 1070px;
+      color: #f1f1f6;
+      font-size: 1rem;
+      font-family: 'Abril Fatface', cursive; ;
+      background-color: red;
+      border-radius: 35%;
+      padding: 5px;
+      
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bilal_roy img{
+      margin-top: 25px;
+      clip-path: ellipse(33% 50%);
+      width: 100px;
+      
+
+}
+
+.name_bilal{
+      position: relative;
+}
+
+.name_bilal{
+      position: absolute;
+      top: 1300px;
+      left: 800PX;
+      color: #DDDDDD;
+      font-size: 1rem;
+      font-family: 'Abril Fatface', cursive;
+
+}
+
+.details_bilal{
+      position:relative
+}
+
+.details_bilal{
+      position: absolute;
+      top: 1340px;
+      left: 800px;
+      color: #f1f1f6;
+      font-size: 1rem;
+      font-family: 'Abril Fatface', cursive; ;
+      
+}
+
+.avg_points_bilal{
+      position: relative;
+}
+
+.avg_points_bilal{
+      position: absolute;
+      top: 1300px;
+      left: 1070px;
+      color: #f1f1f6;
+      font-size: 1rem;
+      font-family: 'Abril Fatface', cursive; ;
+
+}
+
+.ppg_bilal{
+      position: relative;
+}
+
+.ppg_bilal{
+      position: absolute;
+      top: 1330px;
+      left: 1070px;
+      color: #f1f1f6;
+      font-size: 1rem;
+      font-family: 'Abril Fatface', cursive; ;
+      background-color: red;
+      border-radius: 35%;
+      padding: 5px;
+      
+}
+
+
+
+.summer{
+      margin-left: 1000px;
+      margin-top: -100px
+}
+
+
+footer{
+      margin-top: 40px;
+      border-top: 5px solid white;
+      background-color: red;
+      color:  white;
+}
+
+.title_bot{
+      color: #070144;
+}
+
+#title_bord{
+      border-bottom: 1px solid #070144;
+      width: 10%;
+
+}
+
+.p_bot{
+      margin-left: 70px;
 }
